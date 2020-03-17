@@ -1,8 +1,8 @@
 # Nathalia Silva's Portfolio (2020)
 
-Welcome to the my portfolio. 
+Welcome to the my portfolio!!!
 
 ---
 
-### Live version [link](https://nathaliasilva.herokuapp.com/)
+### Live version here >>> [link](https://nathaliasilva.herokuapp.com/)
 ---
