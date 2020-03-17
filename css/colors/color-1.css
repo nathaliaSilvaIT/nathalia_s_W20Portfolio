@@ -1,0 +1,72 @@
+/* Main Rules */
+.separator {background:#333333;}
+.tooltip-inner {background-color:#333333;}
+.tooltip.top .tooltip-arrow {border-top-color:#333333;}
+::-moz-selection {background:#333333;}
+::selection {background:#333333;}
+.btn-custom {border: 1px solid#333333;}
+.btn-custom:hover {background:#333333;}
+.btn-custom.reverse {background:#333333;}
+.btn-custom.reverse:hover {border: 1px solid#333333;}
+.btn-custom.light:hover {color:#333333 !important;}
+
+/* Color-Box Switch */
+.color-switcher h6 {background:#333333;}
+.color-switcher .switcher-btn {background:#333333;}
+.color-switcher .map-styles li a:hover {background:#333333;}
+
+/* Home Section */
+#home .navbar span.colored-brand {background:#333333;}
+#home .navbar .nav>li>a:focus, #home .navbar .nav>li>a:hover {color:#333333;}
+#home .navbar.scrolled .navbar-brand {color:#333333;}
+#home .navbar.scrolled .navbar-toggle .icon-bar {background-color:#333333;}
+#home .navbar.scrolled .nav .active a {background:#333333;}
+.hero-content-wrapper .hero-content span.dot {background:#333333;}
+#home .go-down:hover {background:#333333; border-color:#333333;}
+
+/* About Section */
+#about .info-tabs .nav-tabs>li>a {background:#333333;}
+#about .info-tabs .nav-tabs>li.active>a,
+#about .info-tabs .nav-tabs>li.active>a:focus,
+#about .info-tabs .nav-tabs>li.active>a:hover,
+#about .info-tabs .nav-tabs>li>a:hover {border-color:#333333;}
+#about .info-tabs .tab-content {border: 1px solid#333333;}
+
+/* Ready Section */
+#ready {background:#333333;}
+
+/* Services Section */
+#services .service i:after {box-shadow: 0px 0px 0px 4px#333333;}
+#services .service:hover i {background:#333333;}
+
+/* Skills Section */
+#skills .skill .chart span.percent {color:#333333;}
+
+/* Testimonials Section */
+#testimonials .carousel .carousel-indicators li.active {background:#333333;}
+#testimonials .carousel .carousel-control {border: 1px solid#333333;}
+#testimonials .carousel .carousel-control:hover {background:#333333;}
+
+/* Experiences Section */
+#experiences .timeline .event .event-left i {color:#333333;}
+#experiences .timeline .event .event-left h4 {background:#333333;}
+#experiences .timeline .event .event-right::before {background:#333333;}
+#experiences .timeline .event .event-right::after {border: 2px solid#333333;}
+
+/* Contact Section */
+#contact .call-info i {background:#333333;}
+#contact .call-info:hover .info-wrapper {background:#333333;}
+#contact .call-info:hover i {color:#333333;}
+#contact form #submit:hover {background:#333333; border-color:#333333;}
+
+/* To Top Button */
+#toTop {background:#333333;}
+
+/* -------------------------------------
+              Media Queries
+* ------------------------------------- */
+@media (max-width: 991px) { 
+	/* Adjusting the navbar */
+	#home .navbar .nav .active a, #home .navbar .navbar-brand {color:#333333;}
+	#home .navbar .navbar-toggle .icon-bar {background:#333333;}
+}
