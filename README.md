@@ -1,3 +1,8 @@
-# Nathalia Silva's Portfolio - Winter 2020
+# Nathalia Silva's Portfolio (2020)
 
-See it live at >>> https://nathaliasilva.herokuapp.com/
+Welcome to the my portfolio. 
+
+---
+
+### Live version [link](https://nathaliasilva.herokuapp.com/)
+---
